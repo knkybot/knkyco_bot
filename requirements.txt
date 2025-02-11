@@ -1,3 +1,2 @@
 # Please add the required Python dependencies here, e.g.,
-# requests
-# python-telegram-bot
+# requests python-telegram-bot
