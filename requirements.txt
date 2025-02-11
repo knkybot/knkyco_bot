@@ -1,2 +1,1 @@
-# Please add the required Python dependencies here, e.g.,# requests python-telegram-bot
-python-telegram-bot
+python-telegram-bot==13.7
